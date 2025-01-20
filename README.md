@@ -3,12 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+This section outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -25,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Enabling Internet Information Services (IIS) with CGI
 - PHP Manager
 - Rewrite Module
-- Item 4
+- Microsoft Visual C++ Redistributables
 - Item 5
 
 <h2>Installation Steps</h2>
@@ -55,11 +50,11 @@ Installation of PHP Manager helps configure and manage PHP correctly for optimal
 Installation of Rewrite Module is required for the web server to make sure the URLs are easy to read and looks clean as well.
 </p>
 <hr>
-<h3>Installing Visual C++ Redistributables</h3>
+<h3>Installing Microsoft Visual C++ Redistributables</h3>
 
 ![image](https://github.com/user-attachments/assets/62ffa7f0-fe11-4fa9-8641-620d30510cfa)
 
 <p>
-Installation of Visual C++ Redistributables is required for osTicket to run smoothly and run any code that is written in C++.  
+Installation of Microsoft Visual C++ Redistributables is required for osTicket to run smoothly and run any code that is written in C++.  
 </p>
 <hr>
