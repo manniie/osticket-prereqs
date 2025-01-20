@@ -87,3 +87,8 @@ Installation of Microsoft Visual C++ Redistributables is required for osTicket t
 ![image](https://github.com/user-attachments/assets/8315ed50-aee5-4bf8-bdc1-cda8bef49b0f)
 
 <p>HeidiSQL is a tool for managing MySQL which is the database that osTicket uses.</p>
+<hr>
+<h3>osTicket Successfully Installed</h3>
+
+![image](https://github.com/user-attachments/assets/8b162868-f61a-4a1d-aeb8-b901649eade8)
+<hr>
