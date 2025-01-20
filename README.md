@@ -21,13 +21,13 @@ This section outlines the prerequisites and installation of the open-source help
 - PHP Manager
 - Rewrite Module
 - Microsoft Visual C++ Redistributables
-- Item 5
+- MySQL
 
 <h2>Installation Steps</h2>
 
 <h3>Enabling IIS With CGI</h3>
 
-![image](https://github.com/user-attachments/assets/bc443b68-c84d-406f-9feb-1315fe7c0f32)
+![image](https://github.com/user-attachments/assets/2331c76c-cced-4990-a6af-fcdf737a2086)
 
 <p>
 Enabling Internet Information Services (IIS) with CGI allows for the machine to run a web server which is necessary for osTicket to function. 
@@ -58,3 +58,32 @@ Installation of Rewrite Module is required for the web server to make sure the U
 Installation of Microsoft Visual C++ Redistributables is required for osTicket to run smoothly and run any code that is written in C++.  
 </p>
 <hr>
+<h3>Installing MySQL</h3>
+
+![image](https://github.com/user-attachments/assets/7d0ab29c-3fb2-4efc-9081-b205d2427fe8)
+
+<p>Installation of MySQL which is used to create a database which holds all the important data created by osTicket. Furthermore, it organizes the data, allows for quick searching, and allows for osTicket to create tickets.</p>
+<hr>
+<h3>Registering the PHP within IIS</h3>
+
+![image](https://github.com/user-attachments/assets/b740df8b-579d-4d97-afff-8f5441f1dc4b)
+
+<p>Registering the PHP allows for the IIS to know how to process and run the PHP code properly, in other words allow for the osTicket website to run on the machine.</p>
+<hr>
+<h3>Installing osTicket onto IIS</h3>
+
+![image](https://github.com/user-attachments/assets/4787f247-6e30-47f4-a204-e32d7cedb556)
+
+<p>Installing osTicket requires a web server which we used IIS for this example. Using IIS allows for everything to be managed in one place.</p>
+<hr>
+<h3>Enabling PHP Extensions for osTicket</h3>
+
+![image](https://github.com/user-attachments/assets/0c16c139-d134-4441-863f-f0907a8824c0)
+
+<p>Enabling php_imap, php_intl, and php_opcache which are not enabled by default. IMAP [Internet Message Access Protocol] is used to get emails from your support inbox like GMail so customer queries can be turned into support tickets automatically. INTL [Internationalization] provides support for different languages and cultures for users that may access your site, OPcache is simply for improving performance and caching compiled PHP code.</p>
+<hr>
+<h3>Installing HeidiSQL</h3>
+
+![image](https://github.com/user-attachments/assets/8315ed50-aee5-4bf8-bdc1-cda8bef49b0f)
+
+<p>HeidiSQL is a tool for managing MySQL which is the database that osTicket uses.</p>
