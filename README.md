@@ -22,6 +22,7 @@ This section outlines the prerequisites and installation of the open-source help
 - Rewrite Module
 - Microsoft Visual C++ Redistributables
 - MySQL
+- HeidiSQL
 
 <h2>Installation Steps</h2>
 
