@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c9bd56b-aa6d-4d88-a8a8-d95c994e0e5c)<p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+<p align="center"><img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -194,7 +193,7 @@ Click Add</p>
 
 ![image](https://github.com/user-attachments/assets/5e42f07a-eaba-4198-8c02-2c8f325e9ad5)
 
-<p>Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Fill out the page as required except the Database Settings at the bottom of the page.</p>
+<p>Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Set the admin username to "adminuser" and password to "Password1". Fill out the page as required except the Database Settings at the bottom of the page.</p>
 
 <hr>
 <h3>Installing HeidiSQL</h3>
