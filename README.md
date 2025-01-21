@@ -232,5 +232,6 @@ We will now create a new database within HeidiSQL. In Heidi right click on the l
 
 ![image](https://github.com/user-attachments/assets/8b162868-f61a-4a1d-aeb8-b901649eade8)
 
-<p>Congratulations! You have now successfully installed and setup osTicket!</p>
 <hr>
+<p align="center">
+<p><h2><b>Congratulations! You have now successfully installed and setup osTicket!</h1></b></p>
