@@ -195,6 +195,8 @@ Click Add</p>
 
 <p>Once that is done we will continue to setup osTicket in the browser. Click Continue on the osTicket browser page. Set the admin username to "adminuser" and password to "Password1". Fill out the page as required except the Database Settings at the bottom of the page.</p>
 
+![image](https://github.com/user-attachments/assets/5568fd1f-9b52-44b7-8b81-a71b05bd2593)
+
 <hr>
 <h3>Installing HeidiSQL</h3>
 
